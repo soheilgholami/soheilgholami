@@ -1,20 +1,12 @@
 ## Hi there 👋
-I am a robotics researcher and engineer, interested in the following topics:
-- Human-robot intercation and collaboration
+🔭 I'm a robotics researcher and engineer with experience across industrial, construction, and medical robotics.
+
+🎓 I hold bachelor's and master's degrees in **control engineering**, and completed my PhD and postdoc in **robotics** and **bioengineering**.
+
+💻 My preferred programming languages are C++ and Python.
+
+💡 My research interests include:
+- Human–robot interaction and collaboration
+- Path planning for robotic manipulators
 - Robot learning
 - Data analysis
-
-<!--
-**soheilgholami/soheilgholami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
