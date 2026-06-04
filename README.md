@@ -1,4 +1,8 @@
 ## Hi there 👋
+I am a robotics researcher and engineer, interested in the following topics:
+- Human-robot intercation and collaboration
+- Robot learning
+- Data analysis
 
 <!--
 **soheilgholami/soheilgholami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
