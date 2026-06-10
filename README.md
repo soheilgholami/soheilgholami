@@ -8,15 +8,3 @@
 </p>
 
 🔭 I'm a robotics researcher and engineer with experience across industrial, construction, and medical robotics.
-
-🎓 PhD and postdoc in **robotics** and **bioengineering**
-
-🎓 Bachelor's and Master's degrees in **control engineering**
-
-💡 My research interests include:
-- Human–robot interaction and collaboration
-- Path planning for robotic manipulators
-- Robot learning
-- Data analysis
-
-💻 My preferred programming languages are C++ and Python.
